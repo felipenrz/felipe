@@ -8,17 +8,17 @@ document.addEventListener('DOMContentLoaded', () => {
     criaCartao(
         'Livros', 
         'Quem criou "Dom Quixote', 
-        'Mguel de Cervantes.'
+        'Miguel de Cervantes.'
     );
 
     criaCartao(
-        'pais', 
+        'país', 
         'Qual é a capital a australia?', 
         'Canberra'
     );
 
     criaCartao(
-        'Ciencia', 
+        'Ciência', 
         'Em que ano o homem pisou na lua pela primeira vez?', 
         '1969'
     );
