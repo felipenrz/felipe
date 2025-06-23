@@ -1,25 +1,25 @@
 document.addEventListener('DOMContentLoaded', () => {
     criaCartao(
-        'Velocidade', 
-        'Qual é a maior velocidade já alcançada pelo flash?', 
-        '3.897.302.954.000.000.000.000.000m/s ou 140.202.906.344.000.000.000km/h aproximadamente (cálculo feito por fãs)'
+        'Oceano', 
+        'Qual é o maior oceano do mundo?', 
+        '0ceano Pacifico´
     );
 
     criaCartao(
-        'Liga da Justiça sem Limites', 
-        'Qual era o nome da pessoa que assume o manto de flash no desenho Liga da Justiça Sem Limites?', 
-        'Wally West.'
+        'Livros', 
+        'Quem criou "Dom Quixote', 
+        'Mguel de Cervantes.'
     );
 
     criaCartao(
-        'Vilão', 
-        'Quem é o vilão principal que confronta flash?', 
-        'Seu arqui-inimigo, Flash Reverso'
+        'pais', 
+        'Qual é a capital a australia?', 
+        'Canberra'
     );
 
     criaCartao(
-        'História', 
-        'Como Barry Allen conseguiu seus poderes nos quadrinhos?', 
-        'Ele conseguiu seus poderes em seu laboratório, após ser exposto a produtos químicos e atingido por um raio.'
+        'Ciencia', 
+        'Em que ano o homem pisou na lua pela primeira vez?', 
+        '1969'
     );
 });
